@@ -10,7 +10,7 @@ import { slideIn } from "../utils/motion";
 
 const Contact = () => {
   return (
-    <div>Con</div>
+    <div>C</div>
   )
 }
 
