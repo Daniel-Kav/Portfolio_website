@@ -34,7 +34,7 @@ const Contact = () => {
       'template_pjz0ptk',
       {
         from_name: form.name,
-        to_name: 'Daniel',
+        to_name: 'Danie',
         from_email: form.email,
         to_email: 'dankavatha01@gmail.com',
         message: form.message,
