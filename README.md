@@ -733,7 +733,7 @@ module.exports = {
 
 ## <a name="links">🔗 Links</a>
 
-Models and Assets used in the project can be found [here](https://drive.google.com/drive/folders/1KVU8iaH0E_JFtShNiR3BgCSA3pawXY4Z)
+Models and Assets used in the project can be found [here](https://drive.google.com/drive/u/0/folders/1iZjtnQP8INAcYXGLDkRxik0LZk2d-cmY)
 
 ## <a name="more">🚀 More</a>
 
